@@ -1,0 +1,8 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+# must enable PUSH0
+evm_version = "shanghai"
+ffi = true
